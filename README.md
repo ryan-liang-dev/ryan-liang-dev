@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Hi, I'm Ryan Liang (Seiyo Ryo / 梁　清揚)
+# Hi, I'm Ryan Liang (Seiyo Ryo / 梁 清揚)
 
 Backend & AI Engineer specializing in large-scale automation systems, LLM-driven applications, and data engineering platforms.  
 I build production-ready backend systems that automate real-world business operations using Python, cloud infrastructure, and AI technologies.
