@@ -79,6 +79,5 @@ Automated analytics data pipeline that integrates multiple marketing sources int
 
 ## Contact
 
-- LinkedIn: (your link)
-- Portfolio: (optional)
-- Email: (your email)
+- LinkedIn: https://www.linkedin.com/in/ryan-liang-dev
+- Email: qingyangliangjp@gmail.com
